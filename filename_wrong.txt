@@ -1,0 +1,1 @@
+'../projects/hsweb-framework-183bbb8b349e7d439745ab757e31c7ffb7a74f14/hsweb-authorization/hsweb-authorization-basic/src/test/java/org/hswebframework/web/authorization/AuthorizeTests.java'
